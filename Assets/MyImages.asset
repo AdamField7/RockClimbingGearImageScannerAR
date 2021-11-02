@@ -24,14 +24,14 @@ MonoBehaviour:
     m_Size: {x: 0.1, y: 0.1}
     m_SpecifySize: 1
     m_Name: Quickdraw
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 1f819ca0fc461464d827fa8319169344, type: 3}
   - m_SerializedGuid:
       m_GuidLow: 4810007541754954639
       m_GuidHigh: 15465660499993719955
     m_SerializedTextureGuid:
       m_GuidLow: 5112950700018847999
       m_GuidHigh: 13417297480132485947
-    m_Size: {x: 0, y: 0}
-    m_SpecifySize: 0
+    m_Size: {x: 0.1, y: 0.09283333}
+    m_SpecifySize: 1
     m_Name: Harness
-    m_Texture: {fileID: 0}
+    m_Texture: {fileID: 2800000, guid: 74b550ffd99246f43b630a65f8d033ba, type: 3}
