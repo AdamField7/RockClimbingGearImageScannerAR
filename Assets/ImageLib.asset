@@ -10,28 +10,18 @@ MonoBehaviour:
   m_Enabled: 1
   m_EditorHideFlags: 0
   m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
-  m_Name: MyImages
+  m_Name: ImageLib
   m_EditorClassIdentifier: 
-  m_GuidLow: 5374224611981446808
-  m_GuidHigh: 4528151611096391865
+  m_GuidLow: 5680853558590705532
+  m_GuidHigh: 12094228632795415183
   m_Images:
   - m_SerializedGuid:
-      m_GuidLow: 5040212911883259038
-      m_GuidHigh: 5773228642528585904
-    m_SerializedTextureGuid:
-      m_GuidLow: 1469576756536122528
-      m_GuidHigh: 4941317514999769048
-    m_Size: {x: 0.1, y: 0.1}
-    m_SpecifySize: 1
-    m_Name: Quickdraw
-    m_Texture: {fileID: 2800000, guid: 1f819ca0fc461464d827fa8319169344, type: 3}
-  - m_SerializedGuid:
-      m_GuidLow: 4810007541754954639
-      m_GuidHigh: 15465660499993719955
+      m_GuidLow: 5171260420867204577
+      m_GuidHigh: 11766216258475341243
     m_SerializedTextureGuid:
       m_GuidLow: 5112950700018847999
       m_GuidHigh: 13417297480132485947
-    m_Size: {x: 0.1, y: 0.09283333}
+    m_Size: {x: 0.2, y: 0.18566667}
     m_SpecifySize: 1
     m_Name: Harness
     m_Texture: {fileID: 2800000, guid: 74b550ffd99246f43b630a65f8d033ba, type: 3}
