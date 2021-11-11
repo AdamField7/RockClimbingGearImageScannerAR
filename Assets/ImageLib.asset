@@ -25,3 +25,43 @@ MonoBehaviour:
     m_SpecifySize: 1
     m_Name: Harness
     m_Texture: {fileID: 2800000, guid: 74b550ffd99246f43b630a65f8d033ba, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5327007428101285122
+      m_GuidHigh: 7337863838143848114
+    m_SerializedTextureGuid:
+      m_GuidLow: 1469576756536122528
+      m_GuidHigh: 4941317514999769048
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: Quickdraw
+    m_Texture: {fileID: 2800000, guid: 1f819ca0fc461464d827fa8319169344, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4738244141901023345
+      m_GuidHigh: 7850975401159743897
+    m_SerializedTextureGuid:
+      m_GuidLow: 8760801571601182003
+      m_GuidHigh: 16583016108547794456
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: grigri
+    m_Texture: {fileID: 2800000, guid: d6f8ed339e9c7994186692464ab522e6, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5679967855917754897
+      m_GuidHigh: 2233566735370068891
+    m_SerializedTextureGuid:
+      m_GuidLow: 17281477942368333870
+      m_GuidHigh: 14722058055065906874
+    m_Size: {x: 0.2, y: 0.2}
+    m_SpecifySize: 1
+    m_Name: ATC
+    m_Texture: {fileID: 2800000, guid: 9c9cf02e24a0efd4baaee1decc414fcc, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4787427259713019389
+      m_GuidHigh: 11667929816000261780
+    m_SerializedTextureGuid:
+      m_GuidLow: 15304510413321457900
+      m_GuidHigh: 4846105515064340584
+    m_Size: {x: 0.2, y: 0.522}
+    m_SpecifySize: 1
+    m_Name: Figure8Knot
+    m_Texture: {fileID: 2800000, guid: 574ad0ec8b22d46468b078494ad34043, type: 3}
