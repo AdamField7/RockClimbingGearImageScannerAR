@@ -88,6 +88,7 @@ GameObject:
   - component: {fileID: 9143479383291266070}
   - component: {fileID: 3987051497954481453}
   - component: {fileID: 5994267883949280038}
+  - component: {fileID: -5981446541031722770}
   m_Layer: 5
   m_Name: Harness
   m_TagString: Untagged
@@ -158,7 +159,7 @@ MonoBehaviour:
   m_FallbackScreenDPI: 96
   m_DefaultSpriteDPI: 96
   m_DynamicPixelsPerUnit: 1
-  m_PresetInfoIsWorld: 0
+  m_PresetInfoIsWorld: 1
 --- !u!114 &5994267883949280038
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -176,6 +177,19 @@ MonoBehaviour:
   m_BlockingMask:
     serializedVersion: 2
     m_Bits: 4294967295
+--- !u!114 &-5981446541031722770
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5372378120130885724}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 34e9b2de76b43964f903bcd35c01274f, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  camera: {fileID: 0}
 --- !u!1 &6386389412784872379
 GameObject:
   m_ObjectHideFlags: 0
