@@ -429,7 +429,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   placeablePrefabs:
-  - {fileID: 5372378120130885724, guid: d8700be777d632e499d90276de1836a8, type: 3}
+  - {fileID: 4487563044586388785, guid: d8700be777d632e499d90276de1836a8, type: 3}
+  - {fileID: 2409359822673570141, guid: 3171b9181fb643944bcd823aacc24ec8, type: 3}
+  - {fileID: 7833344732732955868, guid: 88ade07e3b44a544086c8187f8d49fcb, type: 3}
+  - {fileID: 2019991969011501383, guid: 8b578864456ca454294714e20e9233a0, type: 3}
+  - {fileID: 5902533693283021344, guid: 2b25d76062c99544ab5ab0e6b43e3475, type: 3}
   trackedImageManager: {fileID: 388525036}
 --- !u!1 &705507993
 GameObject:
